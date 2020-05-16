@@ -22,6 +22,9 @@ sort by date order
 - https://www.youtube.com/watch?v=MrZKoWgcZVg
   - https://www.youtube.com/watch?v=keCwRdbwNQY (with en subtitles)
 
+# 1992 - Steve Jobs MIT Sloan Distinguished Speaker Series
+- https://www.youtube.com/watch?v=Gk-9Fd2mEnI
+
 # 1990 - Presenting NeXT and NeXTSTEP
 - part1 https://www.youtube.com/watch?v=d76GBkG3oyM
 - part2 https://www.youtube.com/watch?v=jpHhU0hvxEI
