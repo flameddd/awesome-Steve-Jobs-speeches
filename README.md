@@ -30,4 +30,5 @@ sort by date order
 - part2 https://www.youtube.com/watch?v=jpHhU0hvxEI
 
 # 1984 - Jobs introduces the Macintosh
-- https://www.youtube.com/watch?v=2B-XwPjn9YY
+- https://www.youtube.com/watch?v=1tQ5XwvjPmA (1 hour)
+- https://www.youtube.com/watch?v=2B-XwPjn9YY (5 mins)
